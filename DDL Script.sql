@@ -1,5 +1,5 @@
 # basdat-kelompok5-TI-41-05
-Homework Basdat DDL Script
+
 
 
 drop table if exists TBL_BERANGGOTAKAN;
