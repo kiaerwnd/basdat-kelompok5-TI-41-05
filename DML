@@ -1,0 +1,30 @@
+INSERT INTO division (id_divisi, nama_division)
+VALUES ('D001', 'Human Resources'),
+	('D002', 'Operating General'),
+	('D003', 'Admin'),
+	('D004', 'Finance'),
+	('D005', 'Marketing & Sales');
+
+INSERT INTO employee (id_karyawan, nama_karyawan)
+VALUES ('HR001', 'Aldi'),
+	('HR002', 'Iqbal'),
+	('OG001', 'Tahta'),
+	('OG002', 'Risma'),
+	('AD001', 'Kya'),
+	('AD002', 'Laksmi'),
+	('FI001', 'Jason'),
+	('FI002', 'Jack'),
+	('MS001', 'Muller'),
+	('MS002', 'John');
+
+INSERT INTO absensi (jam_kedatangan)
+VALUES (07:30),
+	(08:00),
+	(07:00),
+	(07:45),
+	(08:10),
+	(08:15),
+	(07:00),
+	(07:10),
+	(08:30),
+	(07:30);
